@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎥 Movie Database WebApp
 
 A sleek and interactive web application to search, view, and track your favorite movies. Built using React, Tailwind CSS, Zustand, and The Movie Database (TMDb) API.
@@ -19,3 +20,13 @@ The Movie Database WebApp allows users to discover new movies, browse trending m
 
 ⚡ Fast & Lightweight: Built with efficient API calls to ensure fast load times.
 
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> e1be2d0 (Initial project setup)
